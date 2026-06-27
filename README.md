@@ -1,1 +1,1 @@
-auditing the CS50 intro to python, view my jourmey here
+audit of CS50 intro to python course, view my work of the problem sets here.
